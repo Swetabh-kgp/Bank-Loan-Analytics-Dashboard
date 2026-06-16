@@ -61,11 +61,12 @@ The objective of this project is to transform raw banking data into actionable b
 - Most borrowers prefer 36-month loan terms.
 - Loan applications show steady growth throughout the year.
 ---
-## Project Screenshots -
-### Summary Dashboard -
-![Summary Dashboard](Screenshots/Summary_Dashboard.png)
+## Project Screenshots
+### Summary Dashboard
+![Summary Dashboard](1.%20Summary%20Dashboard.JPG)
+
 ### Overview Dashboard
-![Overview Dashboard](Screenshots/Overview_Dashboard.png)
+![Overview Dashboard](2.%20overview%20Dashboard.JPG)
 ---
 ## Project Files
 - Power BI Dashboard (.pbix)
